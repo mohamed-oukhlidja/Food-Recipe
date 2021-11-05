@@ -1,0 +1,19 @@
+.recipes
+{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(75, 75, 75);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: #e58e26;
+    align-items: center;
+    min-width: 40%;
+}
+.img
+{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
